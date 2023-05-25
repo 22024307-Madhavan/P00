@@ -67,7 +67,7 @@ public class CalculatorTest {
 	public void testDivide() {
 		int a = 4;
 		int b = 2;
-		
+		//
 		Calculator cal = new Calculator();
 		int actual = cal.divide(a, b);
 		
